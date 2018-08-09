@@ -1,5 +1,9 @@
 #############################################################################
 ##
+## Copyright (C) Nishant Singh
+##
+##
+## The gui framework is modified and taken from earlier templates from below source:
 ## Copyright (C) 2013 Riverbank Computing Limited.
 ## Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).
 ## All rights reserved.
