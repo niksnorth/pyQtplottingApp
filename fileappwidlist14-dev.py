@@ -3,7 +3,7 @@
 ## Copyright (C) Nishant Singh
 ##
 ##
-## The gui framework is modified and taken from earlier templates from below source:
+## The gui framework for ploting and linearising experimental data
 ##
 ##
 #############################################################################
